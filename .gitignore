@@ -1,0 +1,11 @@
+.godot/
+.nomedia
+.mono/
+data_*/
+mono_crash.*.json
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln
